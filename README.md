@@ -1,1 +1,1 @@
-![slothhost logo](s3://slothhost/img/logo-dark.svg)
+![slothhost logo](https://slothhost.s3.amazonaws.com/img/logo-dark.png)
